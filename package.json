@@ -1,7 +1,7 @@
 {
   "name": "weekly-checkin",
   "version": "1.0.0",
-  "description": "Weekly staff check-in platform",
+ "description": "Weekly staff check-in platform v2",
   "main": "src/index.js",
   "scripts": {
     "start": "node src/index.js",
